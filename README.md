@@ -1,4 +1,4 @@
-# CSC369-FileSystem
+# Extent Based File System
   
 An extent-based file system with functionality to support creating and deleting files / directories, displaying metadata, setting the size of a file, files data writing and reading. 
 
